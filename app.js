@@ -39,7 +39,7 @@ card.innerHTML=`
     cityWeather.IsDayTime ? "day.svg" : "night.svg"
   }" class="card-img-top">
   <div class="icon mx-auto bg-light">
-      <img src="img/icons/${cityWeather.WeatherIcon}.svg">
+      <img src="img/${cityWeather.WeatherIcon}.svg">
   </div>
   <!-- Weather details -->
   <div class="text-muted text-uppercase">

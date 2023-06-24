@@ -1,8 +1,11 @@
-body {
-    background: #ddd;
-  }
-  
-  .icon {
+
+   .icon {
     margin-top: -50px;
     border-radius: 50%;
+  }
+   
+
+  body{
+  background:url("img/20230603_191100.jpg");
+  background-size: 100% 100%;  
   }
